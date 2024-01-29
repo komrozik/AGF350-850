@@ -1,0 +1,7 @@
+"TOA5","36719","CR1000X","36719","CR1000X.Std.06.01","CPU:EasyFlux_DL_CR1000XOP_v3.cr1x","12308","System_Operatn_Notes"
+"TIMESTAMP","RECORD","Message","Current","Previous"
+"TS","RN","","",""
+"","","Smp","Smp","Smp"
+"2024-01-25 22:23:36.45",0,"EC100: Prev config recrded","Recrding","Starting"
+"2024-01-25 22:23:36.45",1,"EC100 config matches as required","Config chck","Recrding"
+"2024-01-25 22:23:36.45",2,"CO2zro coef in rng.","CO2zro coef: 1.000205","CO2zro coef: N/A"

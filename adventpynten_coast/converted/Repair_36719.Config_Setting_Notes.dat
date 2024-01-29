@@ -1,0 +1,6 @@
+"TOB3","36719","CR1000X","36719","CR1000X.Std.06.01","CPU:EasyFlux_DL_CR1000XOP_v3.cr1x","12308","2024-01-25 22:23:34"
+"Config_Setting_Notes","0 USEC","108","1198","10589","Sec100Usec","           0","           0","3126286857"
+"config_type","config_status","bandwidth_freq","press_source","diff_press","tmpr_source","CO2_zero_coeff","CO2_span_coeff","H2O_zero_coeff","H2O_span_coeff","CO2_span_mixra","H2O_span_T_DP","IRGA_Heat_ctrl","IRGA_power","CO2_fast_tmpr","shadow_corr"
+"","","","","","","","","","","umol mol-1","deg C","","","",""
+"Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp","Smp"
+"ASCII(20)","ASCII(12)","IEEE4B","IEEE4B","IEEE4B","IEEE4B","IEEE4B","IEEE4B","IEEE4B","IEEE4B","IEEE4B","IEEE4B","IEEE4B","IEEE4B","ASCII(8)","IEEE4B"                                                                                                                                                                                                                                     
